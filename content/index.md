@@ -15,13 +15,13 @@ Thought it would be cool to make a little notes page idk
     <h2>🗺️ Locations</h2>
     <p>Explore towns, castles, dungeons, and more.</p>
     <ul>
-      <li><a href="/barovia-valr-wiki.github.io/Location/Camp">Camps</a></li>
-      <li><a href="/barovia-valr-wiki.github.io/Location/Castle">Castles</a></li>
-      <li><a href="/barovia-valr-wiki.github.io/Location/Dungeon">Dungeons</a></li>
-      <li><a href="/barovia-valr-wiki.github.io/Location/House">Houses</a></li>
-      <li><a href="/barovia-valr-wiki.github.io/Location/Misc">Misc</a></li>
-      <li><a href="/barovia-valr-wiki.github.io/Location/Region">Regions</a></li>
-      <li><a href="/barovia-valr-wiki.github.io/Location/Town">Towns</a></li>
+      <li><a href="{{ baseUrl }}/Locations/Camp/">Camps</a></li>
+      <li><a href="{{ baseUrl }}/Locations/Castle/">Castles</a></li>
+      <li><a href="{{ baseUrl }}/Locations/Dungeon/">Dungeons</a></li>
+      <li><a href="{{ baseUrl }}/Locations/House/">Houses</a></li>
+      <li><a href="{{ baseUrl }}/Locations/Misc/">Misc</a></li>
+      <li><a href="{{ baseUrl }}/Locations/Region/">Regions</a></li>
+      <li><a href="{{ baseUrl }}/Locations/Town/">Towns</a></li>
     </ul>
   </div>
 
@@ -29,8 +29,8 @@ Thought it would be cool to make a little notes page idk
     <h2>🧙 NPCs & Factions</h2>
     <p>Keep track of important characters and groups.</p>
     <ul>
-      <li><a href="./NPCs">NPCs</a></li>
-      <li><a href="./Factions">Factions</a></li>
+      <li><a href="{{ baseUrl }}/NPCs/">NPCs</a></li>
+      <li><a href="{{ baseUrl }}/Factions/">Factions</a></li>
     </ul>
   </div>
 
@@ -38,8 +38,8 @@ Thought it would be cool to make a little notes page idk
     <h2>⚔️ Quests & Items</h2>
     <p>Track active quests and important loot.</p>
     <ul>
-      <li><a href="./Quests">Quests</a></li>
-      <li><a href="./Items">Items</a></li>
+      <li><a href="{{ baseUrl }}/Quests/">Quests</a></li>
+      <li><a href="{{ baseUrl }}/Items/">Items</a></li>
     </ul>
   </div>
 
@@ -47,8 +47,8 @@ Thought it would be cool to make a little notes page idk
     <h2>🔮 Tarokka</h2>
     <p>Fortunes and Strahd’s enemies.</p>
     <ul>
-      <li><a href="./Tarokka/Fortunes">Fortunes</a></li>
-      <li><a href="./Tarokka/Strahd's Enemies">Strahd's Enemies</a></li>
+      <li><a href="{{ baseUrl }}/Tarokka/Fortunes/">Fortunes</a></li>
+      <li><a href="{{ baseUrl }}/Tarokka/Strahd's Enemies/">Strahd's Enemies</a></li>
     </ul>
   </div>
 
@@ -64,5 +64,3 @@ Thought it would be cool to make a little notes page idk
   </div>
 
 </div>
-
----
