@@ -63,10 +63,10 @@ Thought it would be cool to make a little site for the notes.
 <div style="width:100%; background:#2b1b1b; color:white; padding:15px; border-radius:8px; margin-top:20px;">
   <h2>🗺️ Map of Barovia</h2>
   <p>Areas our party has explored so far.</p>
-  <img id="map-small" src="./assets/barovia-map.jpg" style="width:100%; border-radius:5px; cursor:pointer;" alt="Map of Barovia" title="Click to zoom" />
+  <img id="map-small" src="./assets/barovia-map.png" style="width:100%; border-radius:5px; cursor:pointer;" alt="Map of Barovia" title="Click to zoom" />
 
   <div id="map-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); justify-content:center; align-items:center; z-index:1000;">
-    <img src="./assets/barovia-map-large.jpg" style="max-width:90%; max-height:90%; border-radius:5px;" />
+    <img src="./assets/barovia-map-large.png" style="max-width:90%; max-height:90%; border-radius:5px;" />
   </div>
 </div>
 
