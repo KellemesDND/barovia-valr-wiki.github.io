@@ -15,13 +15,13 @@ Thought it would be cool to make a little site for the notes
     <h2>🗺️ Locations</h2>
     <p>Explore towns, castles, dungeons, and more.</p>
     <ul>
-      <li><a href="./Locations/Camp">Camps</a></li>
-      <li><a href="./Locations/Castle">Castles</a></li>
-      <li><a href="./Locations/Dungeon">Dungeons</a></li>
-      <li><a href="./Locations/House">Houses</a></li>
-      <li><a href="./Locations/Misc">Misc</a></li>
-      <li><a href="./Locations/Region">Regions</a></li>
-      <li><a href="./Locations/Town">Towns</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Camp/">Camps</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Castle/">Castles</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Dungeon/">Dungeons</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/House/">Houses</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Misc/">Misc</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Region/">Regions</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Town/">Towns</a></li>
     </ul>
   </div>
 
@@ -29,8 +29,8 @@ Thought it would be cool to make a little site for the notes
     <h2>🧙 NPCs & Factions</h2>
     <p>Keep track of important characters and groups.</p>
     <ul>
-      <li><a href="./NPCs">NPCs</a></li>
-      <li><a href="./Factions">Factions</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/NPCs/">NPCs</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Factions/">Factions</a></li>
     </ul>
   </div>
 
@@ -38,8 +38,8 @@ Thought it would be cool to make a little site for the notes
     <h2>⚔️ Quests & Items</h2>
     <p>Track active quests and important loot.</p>
     <ul>
-      <li><a href="./Quests">Quests</a></li>
-      <li><a href="./Items">Items</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Quests/">Quests</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Items/">Items</a></li>
     </ul>
   </div>
 
@@ -47,8 +47,8 @@ Thought it would be cool to make a little site for the notes
     <h2>🔮 Tarokka</h2>
     <p>Fortunes and Strahd’s enemies.</p>
     <ul>
-      <li><a href="./Tarokka/Fortunes">Fortunes</a></li>
-      <li><a href="./Tarokka/Strahd's Enemies">Strahd's Enemies</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Fortunes/">Fortunes</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Strahd's Enemies/">Strahd's Enemies</a></li>
     </ul>
   </div>
 
@@ -61,10 +61,7 @@ Thought it would be cool to make a little site for the notes
       <li>🏹 Marcus – Human Ranger</li>
       <li>🎵 Gonk – Orc Bard</li>
     </ul>
-    <a href="./Characters" style="padding:8px 12px; background:#8b5cf6; color:white; border-radius:5px; text-decoration:none;">View Characters</a>
+    <a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Characters/" style="padding:8px 12px; background:#8b5cf6; color:white; border-radius:5px; text-decoration:none;">View Characters</a>
   </div>
 
 </div>
-
----
-
