@@ -3,9 +3,9 @@ title: "Curse of Strahd Campaign Dashboard"
 date: 2025-11-16
 ---
 
-# 🦇 Welcome to Barovia
+# 🦇 Valrs Barovia Campaign
 
-This is your Curse of Strahd campaign hub. Navigate your notes, track quests, and manage your world all from one place.
+Thought it would be cool to make a little notes page idk
 
 ---
 
