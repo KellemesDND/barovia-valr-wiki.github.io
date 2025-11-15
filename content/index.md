@@ -1,5 +1,3 @@
-{% extends "_default/page.njk" %}
-{% block content %}
 ---
 title: "Curse of Strahd Campaign Dashboard"
 date: 2025-11-16
@@ -68,4 +66,3 @@ Thought it would be cool to make a little notes page idk
 </div>
 
 ---
-{% endblock %}
