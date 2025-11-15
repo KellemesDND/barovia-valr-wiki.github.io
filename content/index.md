@@ -61,7 +61,6 @@ Thought it would be cool to make a little site for the notes
       <li>🏹 Marcus – Human Ranger</li>
       <li>🎵 Gonk – Orc Bard</li>
     </ul>
-    <a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Characters/" style="padding:8px 12px; background:#8b5cf6; color:white; border-radius:5px; text-decoration:none;">View Characters</a>
   </div>
 
 </div>
