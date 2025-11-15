@@ -1,13 +1,9 @@
----
-title: "Curse of Strahd Campaign Dashboard"
-date: 2025-11-16
----
+{% extends "_default/page.njk" %}
 
-# 🦇 Valrs Barovia Campaign :>
+{% block content %}
+# 🦇 Valrs Barovia Campaign
 
 Thought it would be cool to make a little notes page idk
-
----
 
 <div style="display:flex; gap:20px; flex-wrap: wrap;">
 
@@ -27,7 +23,6 @@ Thought it would be cool to make a little notes page idk
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🧙 NPCs & Factions</h2>
-    <p>Keep track of important characters and groups.</p>
     <ul>
       <li><a href="{{ baseUrl }}/NPCs/">NPCs</a></li>
       <li><a href="{{ baseUrl }}/Factions/">Factions</a></li>
@@ -36,7 +31,6 @@ Thought it would be cool to make a little notes page idk
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>⚔️ Quests & Items</h2>
-    <p>Track active quests and important loot.</p>
     <ul>
       <li><a href="{{ baseUrl }}/Quests/">Quests</a></li>
       <li><a href="{{ baseUrl }}/Items/">Items</a></li>
@@ -45,7 +39,6 @@ Thought it would be cool to make a little notes page idk
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🔮 Tarokka</h2>
-    <p>Fortunes and Strahd’s enemies.</p>
     <ul>
       <li><a href="{{ baseUrl }}/Tarokka/Fortunes/">Fortunes</a></li>
       <li><a href="{{ baseUrl }}/Tarokka/Strahd's Enemies/">Strahd's Enemies</a></li>
@@ -54,7 +47,6 @@ Thought it would be cool to make a little notes page idk
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🛡️ Party Members</h2>
-    <p>Our adventuring party so far:</p>
     <ul>
       <li>🐇 Lorrent – Harengon Life Cleric</li>
       <li>🗿 Valkar – Goliath War Cleric</li>
@@ -64,3 +56,4 @@ Thought it would be cool to make a little notes page idk
   </div>
 
 </div>
+{% endblock %}
