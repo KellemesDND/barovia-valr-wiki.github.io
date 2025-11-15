@@ -5,7 +5,7 @@ title: "🦇 Valrs Curse of Strahd Campaign"
 Thought it would be cool to make a little site for the notes.
 
 ---
-
+<div style="transform:scale(1.05); transform-origin: top left;">
 <div style="display:flex; gap:20px; flex-wrap: wrap;">
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
@@ -60,23 +60,12 @@ Thought it would be cool to make a little site for the notes.
     </ul>
   </div>
 
-<div style="width:100%; background:#2b1b1b; color:white; padding:15px; border-radius:8px; margin-top:20px;">
-  <h2>🗺️ Map of Barovia</h2>
-  <p>Areas our party has explored so far.</p>
-  <img id="map-small" src="./assets/barovia-map.png" style="width:100%; border-radius:5px; cursor:pointer;" alt="Map of Barovia" title="Click to zoom" />
-
-  <div id="map-modal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); justify-content:center; align-items:center; z-index:1000;">
-    <img src="./assets/barovia-map-large.png" style="max-width:90%; max-height:90%; border-radius:5px;" />
+  <div style="width:100%; background:#2b1b1b; color:white; padding:15px; border-radius:8px; margin-top:20px;">
+    <h2>🗺️ Map of Barovia</h2>
+    <p>Areas our party has explored so far.</p>
+    <img src="./assets/barovia-map.jpg" style="width:100%; border-radius:5px;" alt="Map of Barovia" />
   </div>
 </div>
-
-<script>
-const smallMap = document.getElementById("map-small");
-const modal = document.getElementById("map-modal");
-
-smallMap.onclick = () => { modal.style.display = "flex"; };
-modal.onclick = () => { modal.style.display = "none"; };
-</script>
-
-
 </div>
+
+
