@@ -8,7 +8,8 @@ card_name: Raven
 card_type: Strahd's Enemy
 linked_quest: []
 linked_location: []
-linked_npc: []
+linked_npc:
+  - "[[EoS 4 (Raven)|Davian Martikov]]"
 linked_item: []
 ---
 ## Overview
