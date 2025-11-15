@@ -1,3 +1,5 @@
+{% extends "_default/page.njk" %}
+{% block content %}
 ---
 title: "Curse of Strahd Campaign Dashboard"
 date: 2025-11-16
@@ -15,13 +17,13 @@ Thought it would be cool to make a little notes page idk
     <h2>🗺️ Locations</h2>
     <p>Explore towns, castles, dungeons, and more.</p>
     <ul>
-      <li><a href="./Location/Camp">Camps</a></li>
-      <li><a href="./Location/Castle">Castles</a></li>
-      <li><a href="./Location/Dungeon">Dungeons</a></li>
-      <li><a href="./Location/House">Houses</a></li>
-      <li><a href="./Location/Misc">Misc</a></li>
-      <li><a href="./Location/Region">Regions</a></li>
-      <li><a href="./Location/Town">Towns</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/Camp">Camps</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/Castle">Castles</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/Dungeon">Dungeons</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/House">Houses</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/Misc">Misc</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/Region">Regions</a></li>
+      <li><a href="barovia-valr-wiki.github.io/Location/Town">Towns</a></li>
     </ul>
   </div>
 
@@ -66,4 +68,4 @@ Thought it would be cool to make a little notes page idk
 </div>
 
 ---
-
+{% endblock %}
