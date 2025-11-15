@@ -1,9 +1,7 @@
 ---
-title: "Curse of Strahd Campaign Dashboard"
+title: "# 🦇 Valrs Curse of Strahd Campaign"
 date: 2025-11-16
 ---
-
-# 🦇 Valrs Curse of Strahd Campaign
 
 Thought it would be cool to make a little site for the notes
 
