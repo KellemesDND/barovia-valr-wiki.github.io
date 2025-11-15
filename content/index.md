@@ -3,7 +3,7 @@ title: "Curse of Strahd Campaign Dashboard"
 date: 2025-11-16
 ---
 
-# 🦇 Valrs Barovia Campaign
+# 🦇 Valrs Barovia Campaign :>
 
 Thought it would be cool to make a little notes page idk
 
