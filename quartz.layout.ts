@@ -43,40 +43,64 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [
-      Component.Graph({
-          localGraph: {
-              drag: true,
-              zoom: true,
-              depth: 1,              // 1 hop is usually enough for readability
-              scale: 1.2,            // slightly zoomed in to make nodes bigger
-              repelForce: 0.8,       // stronger repulsion keeps nodes from overlapping
-              centerForce: 0.2,      // gentle centering so it doesn’t look stiff
-              linkDistance: 60,      // more space between nodes for clarity
-              fontSize: 0.8,         // slightly bigger text
-              opacityScale: 2,       // full opacity on labels
-              removeTags: ["placeholder"],
-              showTags: false,
-              enableRadial: false,
-          },
-          globalGraph: {
-              drag: true,
-              zoom: true,
-              depth: -1,             // show all hops
-              scale: 1,              // default zoom; slightly higher if you want bigger nodes
-              repelForce: 0.7,       // moderate repulsion for readability
-              centerForce: 0.3,      // keeps layout centered
-              linkDistance: 80,      // gives breathing room for a larger graph
-              fontSize: 0.8,         // bigger node labels for clarity
-              opacityScale: 2,       // labels fully visible
-              removeTags: ["placeholder"],
-              showTags: false,
-              enableRadial: true,    // keeps graph organized in a radial layout
-          },
-      }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+right: [
+  Component.ConditionalRender({
+    component: Component.Graph({
+      localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 1.2,
+        repelForce: 0.8,
+        centerForce: 0.2,
+        linkDistance: 60,
+        fontSize: 0.8,
+        opacityScale: 2,
+        removeTags: ["placeholder"],
+        showTags: false,
+        enableRadial: false,
+      },
+      globalGraph: {
+        drag: true,
+        zoom: true,
+        depth: -1,
+        scale: 1,
+        repelForce: 0.7,
+        centerForce: 0.3,
+        linkDistance: 80,
+        fontSize: 0.8,
+        opacityScale: 2,
+        removeTags: ["placeholder"],
+        showTags: false,
+        enableRadial: true,
+      },
+    }),
+    condition: (page) => page.fileData.slug !== "index", // only shows normal graph on non-index pages
+  }),
+  // For the index page only, render a smaller local-only graph
+  Component.ConditionalRender({
+    component: Component.Graph({
+      localGraph: {
+        drag: true,
+        zoom: true,
+        depth: 1,
+        scale: 1.2,
+        repelForce: 0.8,
+        centerForce: 0.2,
+        linkDistance: 60,
+        fontSize: 0.8,
+        opacityScale: 2,
+        removeTags: ["placeholder"],
+        showTags: false,
+        enableRadial: false,
+      },
+      globalGraph: undefined, // disable global graph on index
+    }),
+    condition: (page) => page.fileData.slug === "index", // only on index.md
+  }),
+  Component.DesktopOnly(Component.TableOfContents()),
+  Component.Backlinks(),
+],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
