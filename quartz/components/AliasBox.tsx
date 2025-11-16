@@ -1,17 +1,18 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default (() => {
-  // The returned function is the QuartzComponent itself
-  const AliasBox: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+  // This function itself is the QuartzComponent
+  function AliasBox({ fileData, displayClass }: QuartzComponentProps) {
     const aliases = fileData.frontmatter?.aliases || []
 
     if (aliases.length === 0) return null
 
     return (
-      <div class={displayClass}>
-        <p>Aliases: {aliases.join(", ")}</p>
-      </div>
+      <p class={displayClass} style="opacity:0.6; font-size:0.9em; margin-top:-5px; margin-bottom:-5px;">
+        Aliases: {aliases.join(", ")}
+      </p>
     )
   }
+
   return AliasBox
 }) satisfies QuartzComponentConstructor
