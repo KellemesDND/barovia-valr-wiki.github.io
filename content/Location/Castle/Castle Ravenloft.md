@@ -10,8 +10,8 @@ parent_region: "[[Barovia]]"
 The home of [[Strahd Von Zarovich|Strahd]], supposedly endgame content, the main feature of [[Barovia]]
 ## Key NPCs
 - [[Strahd Von Zarovich]] 
-- [[ ]]  
-- [[ ]]
+- [[Placeholder]]
+- [[Placeholder]]
 
 ## Description
 - 
@@ -24,9 +24,9 @@ The home of [[Strahd Von Zarovich|Strahd]], supposedly endgame content, the main
 - **Area 3:**  
 
 ## Connections
-- Linked settlement: [[ ]]  
-- Factions present: [[ ]]  
-- Nearby threats: [[ ]]
+- Linked settlement: [[Placeholder]]
+- Factions present: [[Placeholder]]
+- Nearby threats: [[Placeholder]]
 
 ## Secrets 
 -  

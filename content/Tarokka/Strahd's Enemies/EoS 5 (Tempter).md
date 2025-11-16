@@ -16,10 +16,10 @@ linked_item: []
 - 
 
 ## Linked Notes
-- Quests: [[ ]]  
+- Quests: [[Placeholder]] 
 - Locations: [[Mountainside Abbey]]  
-- NPCs: [[ ]]  
-- Items: [[ ]]
+- NPCs: [[Placeholder]] 
+- Items: [[Placeholder]] 
 
 ## Interpretation
 - 

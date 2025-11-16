@@ -19,10 +19,10 @@ linked_item: []
 - 
 
 ## Linked Notes
-- Quests: [[ ]]  
+- Quests: [[Placeholder]]  
 - Locations: [[Wizards of Wine Winery]]  
 - NPCs: [[EoS 4 (Raven)|Davian Martikov]]  
-- Items: [[ ]]
+- Items: [[Placeholder]] 
 
 ## Interpretation
 - The vines makes me think of the [[Wizards of Wine Winery]] since it has a vinery

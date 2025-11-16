@@ -10,9 +10,9 @@ parent_region: ""
 ## Overview
 - 
 ## Key NPCs
-- [[ ]]  
-- [[ ]]  
-- [[ ]]
+- [[Placeholder]]
+- [[Placeholder]]
+- [[Placeholder]]
 
 ## Description
 - 
@@ -25,9 +25,9 @@ parent_region: ""
 - **Area 3:**  
 
 ## Connections
-- Linked settlement: [[ ]]  
-- Factions present: [[ ]]  
-- Nearby threats: [[ ]]
+- Linked settlement: [[Placeholder]]
+- Factions present: [[Placeholder]]
+- Nearby threats: [[Placeholder]]
 
 ## Secrets 
 -  

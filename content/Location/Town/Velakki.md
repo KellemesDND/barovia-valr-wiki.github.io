@@ -9,9 +9,9 @@ parent_region: "[[Barovia]]"
 ## Overview
 - 
 ## Key NPCs
-- [[ ]]  
-- [[ ]]  
-- [[ ]]
+- [[Placeholder]]
+- [[Placeholder]]
+- [[Placeholder]]
 
 ## Description
 -  
@@ -25,8 +25,8 @@ parent_region: "[[Barovia]]"
 
 ## Connections
 - Linked settlement: [[Crossroads]]  
-- Factions present: [[ ]]  
-- Nearby threats: [[ ]]
+- Factions present: [[Placeholder]]
+- Nearby threats: [[Placeholder]]
 
 ## Secrets 
 -  

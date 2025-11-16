@@ -19,10 +19,10 @@ linked_item: []
 - 
 
 ## Linked Notes
-- Quests: [[ ]]  
-- Locations: [[ ]]  
-- NPCs: [[ ]]  
-- Items: [[ ]]
+- Quests: [[Placeholder]]
+- Locations: [[Placeholder]] 
+- NPCs: [[Placeholder]] 
+- Items: [[Placeholder]]
 
 ## Interpretation
 - There must be a location in Barovia that matches the description, we have to reach its summit.

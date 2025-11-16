@@ -18,10 +18,10 @@ linked_item: []
 - 
 
 ## Linked Notes
-- Quests: [[ ]]  
+- Quests: [[Placeholder]]
 - Locations: [[Wizards of Wine Winery]]  
 - NPCs: [[Davian Martikov|Raven]]  
-- Items: [[ ]]
+- Items: [[Placeholder]]
 
 ## Interpretation
 - So far could mean the hideout of the [[Feathered Ones]] harbours a strong item.
