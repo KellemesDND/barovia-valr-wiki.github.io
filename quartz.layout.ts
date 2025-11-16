@@ -51,7 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
               centerForce: 0.2,      // gentle centering so it doesn’t look stiff
               linkDistance: 60,      // more space between nodes for clarity
               fontSize: 0.8,         // slightly bigger text
-              opacityScale: 1,       // full opacity on labels
+              opacityScale: 0.5,       // full opacity on labels
               removeTags: [],
               showTags: false,
               enableRadial: false,
@@ -65,7 +65,7 @@ export const defaultContentPageLayout: PageLayout = {
               centerForce: 0.3,      // keeps layout centered
               linkDistance: 80,      // gives breathing room for a larger graph
               fontSize: 0.8,         // bigger node labels for clarity
-              opacityScale: 1,       // labels fully visible
+              opacityScale: 0.3,       // labels fully visible
               removeTags: [],
               showTags: false,
               enableRadial: true,    // keeps graph organized in a radial layout
