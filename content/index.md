@@ -46,7 +46,7 @@ Thought it would be cool to make a little site for the notes.
     <p>Madame Eve's fortunes and Strahd's enemies.</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Fortunes/">Fortunes</a></li>
-      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Strahd's Enemies/">Strahd's-Enemies</a></li>
+      <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Strahd's-Enemies/">Strahd's Enemies</a></li>
     </ul>
   </div>
 
