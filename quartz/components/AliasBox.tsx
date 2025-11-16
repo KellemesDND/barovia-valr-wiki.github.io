@@ -17,7 +17,7 @@ export default (() => {
   // add styling for reduced opacity / greyed out
   AliasBox.css = `
     .alias-box span {
-      color: #bbb;        /* light grey */
+      color: #bbbbbb73;        /* light grey */
       font-size: 0.9em;   /* slightly smaller */
       opacity: 0.7;       /* partially faded */
     }
