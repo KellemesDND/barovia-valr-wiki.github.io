@@ -52,7 +52,7 @@ export const defaultContentPageLayout: PageLayout = {
               linkDistance: 60,      // more space between nodes for clarity
               fontSize: 0.8,         // slightly bigger text
               opacityScale: 2,       // full opacity on labels
-              removeTags: ["hidden"],
+              removeTags: [],
               showTags: false,
               enableRadial: false,
           },
@@ -66,7 +66,7 @@ export const defaultContentPageLayout: PageLayout = {
               linkDistance: 80,      // gives breathing room for a larger graph
               fontSize: 0.8,         // bigger node labels for clarity
               opacityScale: 2,       // labels fully visible
-              removeTags: ["hidden"],
+              removeTags: [],
               showTags: false,
               enableRadial: true,    // keeps graph organized in a radial layout
           },

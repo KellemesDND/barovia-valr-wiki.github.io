@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "kellemesdnd.github.io/barovia-valr-wiki.github.io/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["index.md", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

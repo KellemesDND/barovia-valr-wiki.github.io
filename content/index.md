@@ -1,7 +1,5 @@
 ---
 title: "🦇 Valrs Curse of Strahd Campaign"
-tags:
-  - hidden
 ---
 
 Thought it would be cool to make a little site for the notes.
