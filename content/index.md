@@ -32,7 +32,7 @@ Thought it would be cool to make a little site for the notes.
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>⚔️ Quests & Items</h2>
-    <p>Active and completed quests along with their relevant items.</p>
+    <p>Quests along with their relevant items.</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Quests/">Quests</a></li>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Items/">Items</a></li>
@@ -41,7 +41,7 @@ Thought it would be cool to make a little site for the notes.
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🔮 Tarokka</h2>
-    <p>Madame Eve's fortunes and Strahd's enemies</p>
+    <p>Madame Eve's fortunes and Strahd's enemies.</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Fortunes/">Fortunes</a></li>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Strahd's Enemies/">Strahd's Enemies</a></li>
