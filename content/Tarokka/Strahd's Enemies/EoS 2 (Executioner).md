@@ -19,10 +19,10 @@ linked_item: []
 - 
 
 ## Linked Notes
-- Quests: [[Placeholder]]
-- Locations: [[Placeholder]] 
-- NPCs: [[Strahd Von Zarovich]]  
-- Items: [[Placeholder]]
+- Quests: 
+- Locations: [
+- NPCs: 
+- Items: 
 
 ## Interpretation
 -  Was the bride forced and now the brother is angry?

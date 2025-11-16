@@ -11,7 +11,7 @@ parent_region: "[[Barovia]]"
 ## Key NPCs
 - [[Dmitri Krezkov|Burgomaster of Krezk]]  
 - [[Tempter (CHANGE NAME WHEN MEET)]]  
-- [[Placeholder]]
+- 
 
 ## Description
 - Town surrounded by wood log wall and gate.
@@ -24,8 +24,8 @@ parent_region: "[[Barovia]]"
 - **Area 3:**  
 ## Connections
 - Linked settlement: [[Crossroads]], [[Vistani Camp]] 
-- Factions present: [[Placeholder]]  
-- Nearby threats: [[Placeholder]]
+- Factions present: 
+- Nearby threats:
 
 ## Secrets 
 -  

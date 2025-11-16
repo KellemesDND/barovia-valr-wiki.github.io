@@ -10,8 +10,8 @@ parent_region: "[[Barovia]]"
 Travelling camp of the [[Vistani]], home of the [[Madame Eva|Fortune Teller]].
 ## Key NPCs
 - [[Madame Eva|Fortune Teller]]  
-- [[Placeholder]]
-- [[Placeholder]]
+- 
+- 
 
 ## Description
 - Various tents and pavilions

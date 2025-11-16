@@ -20,10 +20,10 @@ linked_item: []
 - 
 
 ## Linked Notes
-- Quests: [[Placeholder]]
-- Locations: [[Placeholder]]
-- NPCs: [[Placeholder]]
-- Items: [[Placeholder]]
+- Quests: 
+- Locations:
+- NPCs:
+- Items: 
 
 ## Interpretation
 - 

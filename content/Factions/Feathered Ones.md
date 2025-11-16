@@ -8,15 +8,15 @@ tags:
 
 ## Leadership
 - **Leader:** [[Davian Martikov|Raven]]
-- **Notable Members:** [[Placeholder]], [[Placeholder]], [[Placeholder]]
+- **Notable Members:** 
 
 ## Territory / Base
 - Main location: [[Wizards of Wine Winery]]
-- Secondary locations / hideouts: [[Placeholder]], [[Placeholder]]
+- Secondary locations / hideouts: 
 
 ## Allies & Enemies
-- **Allies:** [[Placeholder]], [[Placeholder]]
-- **Enemies:** [[Strahd Von Zarovich|Strahd]], [[Placeholder]]
+- **Allies:** 
+- **Enemies:** [[Strahd Von Zarovich|Strahd]
 
 ## Goals & Motivations
 - 

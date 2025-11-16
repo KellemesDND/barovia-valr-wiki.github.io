@@ -8,15 +8,15 @@ Nomadic travelers of Barovia, seemingly unconcerned about the gloom.
 
 ## Leadership
 - **Leader:** [[Madame Eva]]
-- **Notable Members:** [[Placeholder]], [[Placeholder]], [[Placeholder]]
+- **Notable Members:** 
 
 ## Territory / Base
 - Main location: [[Vistani Camp]]
-- Secondary locations / hideouts: [[Placeholder]], [[Placeholder]]
+- Secondary locations / hideouts: 
 
 ## Allies & Enemies
-- **Allies:** [[Placeholder]], [[Placeholder]]
-- **Enemies:** [[Placeholder]], [[Placeholder]]
+- **Allies:** 
+- **Enemies:**
 
 ## Goals & Motivations
 - Self preservation it seems.

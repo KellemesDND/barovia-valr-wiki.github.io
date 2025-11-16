@@ -7,16 +7,16 @@ tags:
 - 
 
 ## Leadership
-- **Leader:** [[Placeholder]]
-- **Notable Members:** [[Placeholder]], [[Placeholder]], [[Placeholder]]
+- **Leader:**
+- **Notable Members:** 
 
 ## Territory / Base
-- Main location: [[Placeholder]]
-- Secondary locations / hideouts: [[Placeholder]], [[Placeholder]]
+- Main location: 
+- Secondary locations / hideouts:
 
 ## Allies & Enemies
-- **Allies:** [[Placeholder]], [[Placeholder]]
-- **Enemies:** [[Placeholder]], [[Placeholder]]
+- **Allies:**
+- **Enemies:** 
 
 ## Goals & Motivations
 -  
