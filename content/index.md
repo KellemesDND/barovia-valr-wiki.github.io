@@ -9,7 +9,7 @@ Thought it would be cool to make a little site for the notes.
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🗺️ Locations</h2>
-    <p>Explore towns, castles, dungeons, and more.</p>
+    <p>The places that we have been so far.</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Camp/">Camps</a></li>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Location/Castle/">Castles</a></li>
@@ -23,7 +23,7 @@ Thought it would be cool to make a little site for the notes.
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🧙 NPCs & Factions</h2>
-    <p>Keep track of important characters and groups.</p>
+    <p>The NPCs and Factions we have ran into.</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/NPCs/">NPCs</a></li>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Factions/">Factions</a></li>
@@ -32,7 +32,7 @@ Thought it would be cool to make a little site for the notes.
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>⚔️ Quests & Items</h2>
-    <p>Track active quests and important loot.</p>
+    <p>Active and completed quests along with their relevant items.</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Quests/">Quests</a></li>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Items/">Items</a></li>
@@ -41,7 +41,7 @@ Thought it would be cool to make a little site for the notes.
 
   <div style="flex:1; min-width:250px; background:#2b1b1b; color:white; padding:15px; border-radius:8px;">
     <h2>🔮 Tarokka</h2>
-    <p>Fortunes and Strahd’s enemies.</p>
+    <p>Madame Eve's fortunes and Strahd's enemies</p>
     <ul>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Fortunes/">Fortunes</a></li>
       <li><a href="https://kellemesdnd.github.io/barovia-valr-wiki.github.io/Tarokka/Strahd's Enemies/">Strahd's Enemies</a></li>
