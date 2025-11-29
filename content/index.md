@@ -58,6 +58,7 @@ Thought it would be cool to make a little site for the notes.
       <li>🗿 Valkar – Goliath War Cleric</li>
       <li>🏹 Marcus – Human Ranger</li>
       <li>🎵 Gonk – Orc Bard</li>
+      <li>🥋 Jacque – ??? Monk</li>
     </ul>
   </div>
 
