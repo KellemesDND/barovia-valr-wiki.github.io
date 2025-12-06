@@ -7,7 +7,7 @@ parent_region:
 ---
 
 ## Overview
-- 
+- All we know is it is a swamp.
 ## Key NPCs
 - 
 -  
