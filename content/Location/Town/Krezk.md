@@ -3,7 +3,7 @@ aliases: []
 tags:
   - location
 type: Town
-parent_region: "[[Barovia]]"
+parent_region: Svalich Woods
 ---
 
 ## Overview

@@ -25,7 +25,6 @@ A haunted house that acts as a tutorial dungeon, with a trap in the attic. Clear
 
 ## History & Lore
 -  Previous home owners of [[The Durst Family]] 
--  
 
 ## Maps & Images
 

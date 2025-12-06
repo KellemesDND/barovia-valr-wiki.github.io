@@ -11,7 +11,7 @@ parent_region: "[[Barovia]]"
 ## Overview
 A winery that supplies [[Barovia]] with alcohol. Run by the [[Feathered Ones]]. Apparently, they provide this service for free.
 ## Key NPCs 
-- [[Davian Martikov|Raven]]  
+- [[Davian Martikov|The Raven]]  
 ## Description
 - Foggy Meadows filled with vineyards
 - Two story house filled with barrels and mills

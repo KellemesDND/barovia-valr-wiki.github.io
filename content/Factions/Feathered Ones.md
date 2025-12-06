@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - Keepers of the Feather
 tags:
   - faction
 ---
@@ -7,7 +8,7 @@ tags:
 - 
 
 ## Leadership
-- **Leader:** [[Davian Martikov|Raven]]
+- **Leader:** [[Davian Martikov|The Raven]]
 - **Notable Members:** 
 
 ## Territory / Base

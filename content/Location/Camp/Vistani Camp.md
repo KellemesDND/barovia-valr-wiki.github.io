@@ -10,8 +10,6 @@ parent_region: "[[Barovia]]"
 Travelling camp of the [[Vistani]], home of the [[Madame Eva|Fortune Teller]].
 ## Key NPCs
 - [[Madame Eva|Fortune Teller]]  
-- 
-- 
 
 ## Description
 - Various tents and pavilions
@@ -19,8 +17,6 @@ Travelling camp of the [[Vistani]], home of the [[Madame Eva|Fortune Teller]].
 
 ## Known Site Locations 
 - **Area 1:**  East of [Krezk], near lake bridge.
-- **Area 2:**  
-- **Area 3:**  
 
 ## Connections
 - Factions present: [[Vistani]] 
